@@ -6,8 +6,8 @@ GEKO je aplikácia pre Windows, v ktorej nájdeš 150 postupov krok za krokom a 
 
 # Ako ho získať
 
-### 1. Klikni na Stiahnuť GEKO.
-### 2. Stiahni súbor GEKO.exe.
+### 1. Klikni na [Stiahnuť GEKO](https://github.com/GekoSlovakia/GEKO/releases/latest/download/GEKO.exe).
+### 2. Počkaj, kým sa stiahne súbor GEKO.exe.
 ### 3. Dvakrát naň klikni a je to. Nič sa neinštaluje.
 
 ## Ak Windows ukáže modré okno „Systém Windows ochránil váš počítač“, nič sa nedeje. Klikni na Ďalšie informácie a potom Spustiť aj tak. Stačí to urobiť iba raz.
